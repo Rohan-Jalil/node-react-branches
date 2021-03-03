@@ -1,0 +1,8 @@
+select {
+    width: 20% !important;
+    margin-bottom: 2rem;
+}
+.branch {
+    height: 25rem;
+    overflow: scroll;
+}
